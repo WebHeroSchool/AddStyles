@@ -1,0 +1,38 @@
+.header__title {
+    color: red;
+    text-transform: uppercase;
+  }
+  
+  .header__text {
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
+  }
+  
+  .section__title {
+    color: green;
+    text-transform: uppercase;
+  }
+  
+  .header__btn {
+    color: red;
+  }
+  
+  .section__text {
+    text-shadow: 1px 1px 2px black, 0 0 1em green;
+  }
+  
+  .section__btn {
+    color: green;
+  }
+  
+  .footer__title {
+    color: blue;
+    text-transform: uppercase;
+  }
+  
+  .footer__text {
+    text-shadow: 1px 1px 2px black, 0 0 1em blue;
+  }
+  
+  .footer__btn {
+    color: blue;
+  }
